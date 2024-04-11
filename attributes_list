@@ -1,13 +1,5 @@
 Below is the list of various attributes (please enter only the acronym):
 
-    Rk : Rank
-    Player : Player's name
-    Nation : Player's nation
-    Pos : Position
-    Squad : Squad’s name
-    Comp : League that squat occupies
-    Age : Player's age
-    Born : Year of birth
     MP : Matches played
     Starts : Matches started
     Min : Minutes played
