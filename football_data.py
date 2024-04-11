@@ -1,7 +1,5 @@
 import pandas as pd
 
-pd.set_option('display.max_rows', None)
-
 def football_data(df):
     attributes_input = input("Enter attributes separated by commas: ")
     if not attributes_input:
