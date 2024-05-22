@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd # type: ignore
 
 def prétraitement():
     players = pd.read_csv('dataset/players.csv', encoding='latin1', delimiter=',')

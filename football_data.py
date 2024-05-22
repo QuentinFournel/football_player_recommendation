@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd # type: ignore
 
 def football_data(df):
     attributes_input = input("Enter attributes separated by commas: ")
